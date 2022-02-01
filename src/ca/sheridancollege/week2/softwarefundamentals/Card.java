@@ -9,6 +9,12 @@ package ca.sheridancollege.week2.softwarefundamentals;
  * A class to model Card Objects.
  * Created in Week 2 for the cloning repository demo
  * @author dancye, 2019
+ * 
+ * 
+ * ICE1: Feb 1, 2022
+ * Name: Hye Min Jo (Hyemin Jo)
+ * ID: 991660035
+ * 
  */
 public class Card 
 {
