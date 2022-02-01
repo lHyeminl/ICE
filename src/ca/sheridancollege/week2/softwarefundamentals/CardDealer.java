@@ -21,7 +21,10 @@ public class CardDealer
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("diamonds");
         
-        Card game = new Card("Select",10);
+        Card game = new Card("Select", 10);
         game.setSuit("Hearts");
+        
+        Card try = new Card("Option", 7);
+        try.setSuit("Spades");
     }
 }
